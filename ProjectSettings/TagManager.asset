@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - UI1
+  - Water
+  - UI
+  - Entities
+  - Clickable Stars
+  - System3DViewer
+  - Clickable Planets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - System1
+  - System2
+  - System3
+  - System4
+  - System5
+  - System6
+  - System7
+  - System8
+  - System9
+  - System10
+  - System11
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 851255697
+    locked: 0
