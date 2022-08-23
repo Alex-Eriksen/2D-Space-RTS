@@ -1,4 +1,0 @@
-repository "2D Space RTS@CuteCubeStudio@cloud"
-  path "/"
-    br "/main"
-    co "/main"
